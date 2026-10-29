@@ -1,0 +1,6 @@
+
+Metric,5 epochs,10 epochs,Change (percentage points)
+Precision,0.8306,0.8251,-0.55
+Recall,0.7784,0.7898,1.14
+mAP50,0.8620,0.8605,-0.15
+mAP50-95,0.6649,0.6672,0.23
